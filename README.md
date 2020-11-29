@@ -25,7 +25,7 @@ let g:lightline = { 'colorscheme': 'base16lightline'}
 
 **Tomorrow Night theme**
 
-![Tomorrow Night](/screenshoots/tomorrow-night.jph)
+![Tomorrow Night](/screenshoots/tomorrow-night.jpg)
 
 **One Light theme**
 
