@@ -30,6 +30,8 @@ With some light themes you can get low contrast in any section in your statuslin
 let g:base16lightline_hcontrast=1
 ```
 
+
+
 ## Screenshoots
 
 **Tomorrow Night theme**
